@@ -1,10 +1,10 @@
 {
-    "name": "ice-cube",
+    "name": "@bellisario/icecube",
     "version": "1.0.0",
     "description": "Create objects that can be freezed and un-freezed",
     "license": "MIT",
-    "repository": "Bellisario/ice-cube",
-    "homepage": "https://github.com/Bellisario/ice-cube#readme",
+    "repository": "Bellisario/IceCube",
+    "homepage": "https://github.com/Bellisario/IceCube#readme",
     "funding": "https://gitbub.com/sponsors/Bellisario",
     "author": "Giorgio Bellisario",
     "type": "module",
@@ -28,7 +28,7 @@
         "supertape": "^7.6.0"
     },
     "bugs": {
-        "url": "https://github.com/Bellisario/ice-cube/issues"
+        "url": "https://github.com/Bellisario/IceCube/issues"
     },
     "engines": {
         "node": ">=14.0.0"
