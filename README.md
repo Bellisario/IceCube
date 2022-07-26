@@ -1,6 +1,6 @@
 <!-- cspell:word vexels -->
 
-<p align="center"><img src="https://github.com/Bellisario/ice-cube/blob/main/assets/Ice%20Cube.svg" alt="Ice Cube" width="150" height="150" /></p>
+<p align="center"><img src="https://github.com/Bellisario/IceCube/blob/main/assets/Ice%20Cube.svg" alt="Ice Cube" width="150" height="150" /></p>
 <p></p>
 <h1 align="center">Ice Cube</h1>
 
@@ -9,7 +9,7 @@
 ## Example
 
 ```js
-import { IceCube } from 'ice-cube';
+import { IceCube } from '@bellisario/icecube';
 const obj = new IceCube({ test: true });
 
 obj.test; // returns true
@@ -68,12 +68,12 @@ You can see on the source code of the library that I used Proxy to "watch" the o
 ## Contributing
 
 We :heart: contributions!\
-Feel free to open an [issue](https://github.com/Bellisario/ice-cube/issues) or a [pull request](https://github.com/Bellisario/ice-cube/pulls) but follow [Contributing Guidelines](https://github.com/Bellisario/ice-cube/blob/main/CONTRIBUTING.md).
+Feel free to open an [issue](https://github.com/Bellisario/IceCube/issues) or a [pull request](https://github.com/Bellisario/IceCube/pulls) but follow [Contributing Guidelines](https://github.com/Bellisario/ice-cube/blob/main/CONTRIBUTING.md).
 
-> **Tip:** if you don't know where to start, check out the [help wanted issues](https://github.com/Bellisario/ice-cube/labels/help%20wanted)!
+> **Tip:** if you don't know where to start, check out the [help wanted issues](https://github.com/Bellisario/IceCube/labels/help%20wanted)!
 
 ## License
-MIT License [here](https://github.com/Bellisario/ice-cube/blob/main/LICENSE).
+MIT License [here](https://github.com/Bellisario/IceCube/blob/main/LICENSE).
 
 ---
 
