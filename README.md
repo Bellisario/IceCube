@@ -4,7 +4,15 @@
 <p></p>
 <h1 align="center">Ice Cube</h1>
 
+[![CI](https://github.com/Bellisario/IceCube/actions/workflows/ci.yml/badge.svg)](https://github.com/Bellisario/IceCube/actions/workflows/ci.yml) [![NPM](https://img.shields.io/npm/v/@bellisario/icecube)](https://www.npmjs.com/package/@bellisario/icecube) ![Node.js Version](https://img.shields.io/node/v/@bellisario/icecube) [![License](https://img.shields.io/npm/l/@bellisario/icecube)](https://github.com/Bellisario/IceCube/blob/main/LICENSE)
+
 > Create objects that can be freezed and un-freezed
+
+## Installation
+
+```bash
+npm i @bellisario/icecube
+```
 
 ## Example
 
