@@ -29,5 +29,8 @@
     },
     "bugs": {
         "url": "https://github.com/Bellisario/ice-cube/issues"
+    },
+    "engines": {
+        "node": ">=14.0.0"
     }
 }
