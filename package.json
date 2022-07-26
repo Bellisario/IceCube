@@ -1,0 +1,33 @@
+{
+    "name": "ice-cube",
+    "version": "1.0.0",
+    "description": "Create objects that can be freezed and un-freezed",
+    "license": "MIT",
+    "repository": "Bellisario/ice-cube",
+    "homepage": "https://github.com/Bellisario/ice-cube#readme",
+    "funding": "https://gitbub.com/sponsors/Bellisario",
+    "author": "Giorgio Bellisario",
+    "type": "module",
+    "exports": "./index.js",
+    "scripts": {
+        "test": "npm run lint && node ./test.js",
+        "lint": "eslint .",
+        "lint:fix": "eslint . --fix"
+    },
+    "files": [
+        "index.js",
+        "index.d.ts"
+    ],
+    "keywords": [
+        "object",
+        "freeze",
+        "un-freeze"
+    ],
+    "devDependencies": {
+        "eslint": "^8.20.0",
+        "supertape": "^7.6.0"
+    },
+    "bugs": {
+        "url": "https://github.com/Bellisario/ice-cube/issues"
+    }
+}
